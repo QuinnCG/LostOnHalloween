@@ -1,3 +1,4 @@
-# ScreamJam2023
+# Lost on Halloween
 
-Developed with Unreal Engine 5
+Made in 1 week for the Scream Jam 2023.
+The game's page can be found here: https://quinncg.itch.io/lost-on-halloween
